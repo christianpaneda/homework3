@@ -17,7 +17,7 @@ body{
   background-repeat: no-repeat;
   background-position: center;
   background-color: #DDDDDD;
-  /* Consulted with Colleen Van Lent during discussion section on 9/17/20 */
+  /* Consulted with Colleen Van Lent during discussion section on 9/17/20 to troubleshoot what was wrong with background-image*/
   background-image: url('../images/pigeon-background.JPEG');
 }
 
